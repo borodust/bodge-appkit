@@ -1,3 +1,7 @@
+This system is a part of `cl-bodge` now. Look for `cl-bodge/appkit`.
+
+OBSOLETE
+
 # bodge-appkit
 
 Simple facade over basic `cl-bodge` facilities for quick application bootstrapping.
